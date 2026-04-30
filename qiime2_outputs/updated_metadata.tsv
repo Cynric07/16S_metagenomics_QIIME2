@@ -1,0 +1,6 @@
+sample-id	condition
+#q2:types	categorical
+Control_End	CE
+Control_Start	CS
+Treatment_End	TE
+Treatment_Start	TS

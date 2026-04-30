@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user/
+*.fastq
+*.fastq.gz
+*.fasta
+.DS_Store
+__pycache__/
+*.pyc
