@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # 16S rRNA Amplicon Metagenomics Pipeline
 
 ### BINF6310 Group Project \| QIIME2 2024.10
